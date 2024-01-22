@@ -2,7 +2,7 @@ Author: Krzysztof Plonka
 Date: 22.12.2023
 
 Description:
-This program is a simple bike computer that allows the user to measure:
+This program is a bike computer that allows the user to measure:
 - velocity
 - distance
 - current time and data 
@@ -11,6 +11,7 @@ This program is a simple bike computer that allows the user to measure:
 - trip distance
 - current cadence
 - altitude
+- LED flasher
 
 This program is also a project from the TM2 lecture.
 
