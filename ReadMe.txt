@@ -22,3 +22,5 @@ Project files and document description:
 - user_data: includes conversion functions and functions for displaying data on the screen
 - user_init: allows to initialize user data like wheel diameter, time, data, and display also short user manual
 - main.c: consolidates the call of all functions in one place 
+
+![IMG20240120202152](https://github.com/Devraux/bike-computer/assets/121176761/c1aa9a28-0952-4ea7-80a0-c198bec48d5c)
