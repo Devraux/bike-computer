@@ -23,5 +23,5 @@ Project files and document description:
 - user_init: allows to initialize user data like wheel diameter, time, data, and display also short user manual
 - main.c: consolidates the call of all functions in one place 
 
-![IMG20240120202152.jpg]
+
 
