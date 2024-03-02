@@ -24,8 +24,10 @@ Project files and document description:
 - user_init: allows to initialize user data like wheel diameter, time, data, and display also short user manual
 - main.c: consolidates the call of all functions in one place 
 
-# finished device enclosed in a case 
+# Prototype
 ![IMG20240120202152](https://github.com/Devraux/bike-computer/assets/121176761/6c118965-2625-4235-888f-c1ec9f165201)
+
+# Finished device enclosed in a case 
 ![IMG20240101134655](https://github.com/Devraux/bike-computer/assets/121176761/56d3dcca-2749-4400-b78a-d5fb1f7a8372)
 
 
