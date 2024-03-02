@@ -1,4 +1,4 @@
-# Bike computer based on pi pico
+# lcd2x16_smart_menu
 Author: Krzysztof Plonka
 Date: 22.12.2023
 
