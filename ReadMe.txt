@@ -1,3 +1,4 @@
+# Bike computer based on pi pico
 Author: Krzysztof Plonka
 Date: 22.12.2023
 
